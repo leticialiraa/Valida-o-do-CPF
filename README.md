@@ -6,6 +6,6 @@ Este repositório foi criado para colocar em prática os conhecimentos adquirido
 
 ## Tecnologias Utilizadas
 
-HTML
-CSS
-Javascript
+* HTML
+* CSS
+* Javascript
